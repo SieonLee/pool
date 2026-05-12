@@ -1,0 +1,15 @@
+# YOLO pose dataset — billiards table corners
+path: /Users/sieonlee/Documents/billards/datasets/table-corners-pose
+train: images/train
+val: images/val
+
+nc: 1
+names: ['table']
+
+# 4 keypoints: TL, TR, BR, BL
+kpt_shape: [4, 3]   # N keypoints, (x, y, visibility)
+flip_idx: [1, 0, 3, 2]
+
+# Stats
+# train: 135 images
+# val:   34 images

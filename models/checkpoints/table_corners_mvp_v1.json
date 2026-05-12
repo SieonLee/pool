@@ -1,0 +1,28 @@
+{
+  "name": "table_corners_mvp_v1",
+  "saved": "2026-05-10T02:13:29Z",
+  "model": "yolo11n-pose",
+  "dataset": "169 images (133 clean aug + 36 gentle pool_real_002)",
+  "original_images": 9,
+  "val_pose_map50_95": 0.993,
+  "overall_mean_error_px": 13.15,
+  "overall_max_error_px": 50.37,
+  "pck10": 45.4,
+  "pck20": 78.3,
+  "warp_size": [
+    900,
+    450
+  ],
+  "keypoint_order": [
+    "TL",
+    "TR",
+    "BR",
+    "BL"
+  ],
+  "excluded_outliers": [
+    "pexels-photo-10627132",
+    "pool_real_004",
+    "pool_real_006"
+  ],
+  "notes": "tgt-gentle run \u2014 pool_real_002 improved 29.5\u219220.6px, max error 50px, no major regression on clean images"
+}

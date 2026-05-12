@@ -1,0 +1,30 @@
+{
+  "image": "tgt_pool_real_002_002.jpg",
+  "width": 1000,
+  "height": 802,
+  "corners": {
+    "TL": [
+      78.0,
+      264.0
+    ],
+    "TR": [
+      393.0,
+      256.0
+    ],
+    "BR": [
+      904.0,
+      388.0
+    ],
+    "BL": [
+      357.0,
+      445.0
+    ]
+  },
+  "order": [
+    "TL",
+    "TR",
+    "BR",
+    "BL"
+  ],
+  "augmented_from": "pool_real_002.png"
+}

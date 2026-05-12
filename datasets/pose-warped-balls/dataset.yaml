@@ -1,0 +1,7 @@
+# YOLO detection dataset — billiards balls on pose-warped table
+path: /Users/sieonlee/Documents/billards/datasets/pose-warped-balls
+train: images/train
+val: images/val
+
+nc: 2
+names: ['cue_ball', 'object_ball']

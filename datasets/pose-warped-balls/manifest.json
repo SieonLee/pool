@@ -1,0 +1,483 @@
+[
+  {
+    "stem": "images",
+    "source": "images.jpeg",
+    "source_wh": [
+      300,
+      168
+    ],
+    "source_diag": 343.8,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/images_warped.jpg",
+    "label_status": "labeled:9"
+  },
+  {
+    "stem": "original",
+    "source": "original.jpg",
+    "source_wh": [
+      850,
+      560
+    ],
+    "source_diag": 1017.9,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/original_warped.jpg",
+    "label_status": "labeled:6"
+  },
+  {
+    "stem": "pool_real_001",
+    "source": "pool_real_001.png",
+    "source_wh": [
+      432,
+      324
+    ],
+    "source_diag": 540.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_001_warped.jpg",
+    "label_status": "empty"
+  },
+  {
+    "stem": "pool_real_002",
+    "source": "pool_real_002.png",
+    "source_wh": [
+      1000,
+      802
+    ],
+    "source_diag": 1281.9,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_002_warped.jpg",
+    "label_status": "empty"
+  },
+  {
+    "stem": "pool_real_003",
+    "source": "pool_real_003.png",
+    "source_wh": [
+      720,
+      960
+    ],
+    "source_diag": 1200.0,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_003_warped.jpg",
+    "label_status": "empty"
+  },
+  {
+    "stem": "pool_real_004",
+    "source": "pool_real_004.png",
+    "source_wh": [
+      1878,
+      1054
+    ],
+    "source_diag": 2153.6,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_004_warped.jpg",
+    "label_status": "labeled:13"
+  },
+  {
+    "stem": "pool_real_005",
+    "source": "pool_real_005.png",
+    "source_wh": [
+      1026,
+      1000
+    ],
+    "source_diag": 1432.7,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_005_warped.jpg",
+    "label_status": "empty"
+  },
+  {
+    "stem": "pool_real_006",
+    "source": "pool_real_006.png",
+    "source_wh": [
+      2048,
+      1623
+    ],
+    "source_diag": 2613.1,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_006_warped.jpg",
+    "label_status": "empty"
+  },
+  {
+    "stem": "pool_real_007",
+    "source": "pool_real_007.jpg",
+    "source_wh": [
+      340,
+      225
+    ],
+    "source_diag": 407.7,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_007_warped.jpg",
+    "label_status": "labeled:15"
+  },
+  {
+    "stem": "pool_real_008",
+    "source": "pool_real_008.jpg",
+    "source_wh": [
+      340,
+      453
+    ],
+    "source_diag": 566.4,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_008_warped.jpg",
+    "label_status": "empty"
+  },
+  {
+    "stem": "pool_real_009",
+    "source": "pool_real_009.jpg",
+    "source_wh": [
+      340,
+      340
+    ],
+    "source_diag": 480.8,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_009_warped.jpg",
+    "label_status": "labeled:8"
+  },
+  {
+    "stem": "pool_real_010",
+    "source": "pool_real_010.jpg",
+    "source_wh": [
+      340,
+      255
+    ],
+    "source_diag": 425.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_010_warped.jpg",
+    "label_status": "labeled:12"
+  },
+  {
+    "stem": "pool_real_011",
+    "source": "pool_real_011.jpg",
+    "source_wh": [
+      340,
+      255
+    ],
+    "source_diag": 425.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_011_warped.jpg",
+    "label_status": "labeled:14"
+  },
+  {
+    "stem": "pool_real_012",
+    "source": "pool_real_012.jpg",
+    "source_wh": [
+      340,
+      191
+    ],
+    "source_diag": 390.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_012_warped.jpg",
+    "label_status": "labeled:11"
+  },
+  {
+    "stem": "pool_real_013",
+    "source": "pool_real_013.jpg",
+    "source_wh": [
+      340,
+      340
+    ],
+    "source_diag": 480.8,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_013_warped.jpg",
+    "label_status": "labeled:11"
+  },
+  {
+    "stem": "pool_real_014",
+    "source": "pool_real_014.jpg",
+    "source_wh": [
+      340,
+      340
+    ],
+    "source_diag": 480.8,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_014_warped.jpg",
+    "label_status": "labeled:12"
+  },
+  {
+    "stem": "pool_real_015",
+    "source": "pool_real_015.jpg",
+    "source_wh": [
+      340,
+      255
+    ],
+    "source_diag": 425.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_015_warped.jpg",
+    "label_status": "labeled:2"
+  },
+  {
+    "stem": "pool_real_016",
+    "source": "pool_real_016.jpg",
+    "source_wh": [
+      340,
+      227
+    ],
+    "source_diag": 408.8,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_016_warped.jpg",
+    "label_status": "empty"
+  },
+  {
+    "stem": "pool_real_017",
+    "source": "pool_real_017.jpg",
+    "source_wh": [
+      340,
+      255
+    ],
+    "source_diag": 425.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_017_warped.jpg",
+    "label_status": "labeled:6"
+  },
+  {
+    "stem": "pool_real_018",
+    "source": "pool_real_018.jpg",
+    "source_wh": [
+      340,
+      255
+    ],
+    "source_diag": 425.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_018_warped.jpg",
+    "label_status": "labeled:6"
+  },
+  {
+    "stem": "pool_real_019",
+    "source": "pool_real_019.jpg",
+    "source_wh": [
+      340,
+      453
+    ],
+    "source_diag": 566.4,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_019_warped.jpg",
+    "label_status": "labeled:11"
+  },
+  {
+    "stem": "pool_real_020",
+    "source": "pool_real_020.jpg",
+    "source_wh": [
+      340,
+      453
+    ],
+    "source_diag": 566.4,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_020_warped.jpg",
+    "label_status": "labeled:14"
+  },
+  {
+    "stem": "pool_real_021",
+    "source": "pool_real_021.jpg",
+    "source_wh": [
+      340,
+      255
+    ],
+    "source_diag": 425.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_021_warped.jpg",
+    "label_status": "labeled:6"
+  },
+  {
+    "stem": "pool_real_022",
+    "source": "pool_real_022.jpg",
+    "source_wh": [
+      320,
+      240
+    ],
+    "source_diag": 400.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_022_warped.jpg",
+    "label_status": "empty"
+  },
+  {
+    "stem": "pool_real_023",
+    "source": "pool_real_023.jpg",
+    "source_wh": [
+      1000,
+      1000
+    ],
+    "source_diag": 1414.2,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_023_warped.jpg",
+    "label_status": "labeled:15"
+  },
+  {
+    "stem": "pool_real_024",
+    "source": "pool_real_024.jpg",
+    "source_wh": [
+      320,
+      569
+    ],
+    "source_diag": 652.8,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_024_warped.jpg",
+    "label_status": "labeled:13"
+  },
+  {
+    "stem": "pool_real_025",
+    "source": "pool_real_025.jpg",
+    "source_wh": [
+      320,
+      240
+    ],
+    "source_diag": 400.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_025_warped.jpg",
+    "label_status": "labeled:15"
+  },
+  {
+    "stem": "pool_real_026",
+    "source": "pool_real_026.jpg",
+    "source_wh": [
+      259,
+      194
+    ],
+    "source_diag": 323.6,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_026_warped.jpg",
+    "label_status": "labeled:3"
+  },
+  {
+    "stem": "pool_real_027",
+    "source": "pool_real_027.jpg",
+    "source_wh": [
+      168,
+      299
+    ],
+    "source_diag": 343.0,
+    "source_low_res": true,
+    "excluded": true,
+    "warped_path": "datasets/pose-warped-balls/images/lowres/pool_real_027_warped.jpg",
+    "label_status": "empty"
+  },
+  {
+    "stem": "pool_real_028",
+    "source": "pool_real_028.jpg",
+    "source_wh": [
+      212,
+      238
+    ],
+    "source_diag": 318.7,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_028_warped.jpg",
+    "label_status": "labeled:4"
+  },
+  {
+    "stem": "pool_real_029",
+    "source": "pool_real_029.jpg",
+    "source_wh": [
+      272,
+      185
+    ],
+    "source_diag": 329.0,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_029_warped.jpg",
+    "label_status": "labeled:9"
+  },
+  {
+    "stem": "pool_real_030",
+    "source": "pool_real_030.jpg",
+    "source_wh": [
+      275,
+      183
+    ],
+    "source_diag": 330.3,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_030_warped.jpg",
+    "label_status": "labeled:11"
+  },
+  {
+    "stem": "pool_real_031",
+    "source": "pool_real_031.jpg",
+    "source_wh": [
+      300,
+      168
+    ],
+    "source_diag": 343.8,
+    "source_low_res": true,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_031_warped.jpg",
+    "label_status": "empty"
+  },
+  {
+    "stem": "pool_real_033",
+    "source": "pool_real_033.jpg",
+    "source_wh": [
+      686,
+      386
+    ],
+    "source_diag": 787.1,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_033_warped.jpg",
+    "label_status": "labeled:9"
+  },
+  {
+    "stem": "pool_real_034",
+    "source": "pool_real_034.jpg",
+    "source_wh": [
+      686,
+      386
+    ],
+    "source_diag": 787.1,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_034_warped.jpg",
+    "label_status": "labeled:8"
+  },
+  {
+    "stem": "pool_real_035",
+    "source": "pool_real_035.jpg",
+    "source_wh": [
+      686,
+      386
+    ],
+    "source_diag": 787.1,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_035_warped.jpg",
+    "label_status": "labeled:8"
+  },
+  {
+    "stem": "pool_real_036",
+    "source": "pool_real_036.jpg",
+    "source_wh": [
+      1280,
+      720
+    ],
+    "source_diag": 1468.6,
+    "source_low_res": false,
+    "excluded": false,
+    "warped_path": "datasets/pose-warped-balls/images/train/pool_real_036_warped.jpg",
+    "label_status": "labeled:3"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "image": "aug_original_014.jpg",
+  "width": 850,
+  "height": 560,
+  "corners": {
+    "TL": [
+      253.0,
+      188.0
+    ],
+    "TR": [
+      597.0,
+      187.0
+    ],
+    "BR": [
+      768.0,
+      533.0
+    ],
+    "BL": [
+      83.0,
+      529.0
+    ]
+  },
+  "order": [
+    "TL",
+    "TR",
+    "BR",
+    "BL"
+  ],
+  "augmented_from": "original.jpg"
+}

@@ -1,0 +1,30 @@
+{
+  "image": "aug_pool_real_024_097.jpg",
+  "width": 320,
+  "height": 569,
+  "corners": {
+    "TL": [
+      96.0,
+      70.0
+    ],
+    "TR": [
+      263.0,
+      69.0
+    ],
+    "BR": [
+      274.0,
+      421.0
+    ],
+    "BL": [
+      19.0,
+      402.0
+    ]
+  },
+  "order": [
+    "TL",
+    "TR",
+    "BR",
+    "BL"
+  ],
+  "augmented_from": "pool_real_024.jpg"
+}

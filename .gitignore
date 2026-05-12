@@ -1,0 +1,30 @@
+.DS_Store
+*.cache
+
+# Repo internals
+.pool_git/
+
+# Python / JS local environments
+.venv/
+node_modules/
+.expo/
+
+# Local outputs and generated artifacts
+debug_out/
+review/
+tmp/
+vision/demo_app_runs/
+
+# Photos and sample media
+samples/
+real-photos/
+datasets/cue_crops/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+
+# Large model/checkpoint artifacts
+runs/
+*.pt
+

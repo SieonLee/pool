@@ -1,0 +1,31 @@
+{
+  "_comment": "Metrics for ball_yolo_active.pt (v5). Target is the lost v1-restore baseline (v1r).",
+
+  "active": {
+    "version": "v5",
+    "file": "ball_yolo_v5_below_baseline.pt",
+    "stress_plan_ready": 16,
+    "stress_total": 33,
+    "stress_cue_missing": 11,
+    "eval_cue_recall": 0.350,
+    "eval_map50": null,
+    "device": "cpu",
+    "notes": "Functional but below v1-restore baseline. Best currently available."
+  },
+
+  "target": {
+    "version": "v1-restore (lost)",
+    "stress_plan_ready": 21,
+    "stress_total": 33,
+    "stress_cue_missing": 9,
+    "eval_cue_recall_min": 0.001,
+    "eval_map50": 0.825,
+    "notes": "21/33 checkpoint lost — overwritten during v3 run. Target for next accepted candidate."
+  },
+
+  "acceptance_criteria": {
+    "stress_plan_ready_min": 21,
+    "stress_cue_missing_max": 9,
+    "eval_cue_recall_min": 0.001
+  }
+}
