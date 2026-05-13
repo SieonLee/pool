@@ -48,6 +48,22 @@ python scripts/plan.py
 python scripts/stress_test.py
 ```
 
+A representative local run on `pool_real_021.jpg` produced:
+
+```text
+Status      : PLAN_READY
+Balls found : 6 (cue present)
+Best shot   : ob=4 -> TR
+Confidence  : 1.0
+Latency     : 144ms
+```
+
+The pipeline writes three main outputs for a successful run:
+
+- `<stem>_result.json`
+- `<stem>_overlay.jpg`
+- `<stem>_demo.jpg`
+
 If you are trying to understand the project, the best starting points are:
 
 - `scripts/run_full_pipeline.py`
