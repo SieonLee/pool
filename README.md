@@ -64,6 +64,10 @@ The pipeline writes three main outputs for a successful run:
 - `<stem>_overlay.jpg`
 - `<stem>_demo.jpg`
 
+Example output image:
+
+![Example demo output](assets/pool_real_021_demo.jpg)
+
 If you are trying to understand the project, the best starting points are:
 
 - `scripts/run_full_pipeline.py`

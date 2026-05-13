@@ -28,3 +28,6 @@ datasets/cue_crops/
 runs/
 *.pt
 
+
+# README example asset
+!assets/pool_real_021_demo.jpg
